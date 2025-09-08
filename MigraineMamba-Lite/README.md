@@ -73,35 +73,11 @@ npm install
 - [ ] *Milestone 6*: Personalization & Retraining
 - [ ] *Milestone 7*: Deployment & Documentation
 
-## 👥 Team
-
-*Guide*: Dr. Varsha Dange  
-*Class*: CSE-AIML-E
-
-*Team Members*:
-- Sachi Dhoka (Roll No. 37) - [Role to be assigned]
-- Ragini Pawar (Roll No. 15) - [Role to be assigned]
-- Nikhil Shah (Roll No. 57) - [Role to be assigned]  
-- Shaktisingh Suryawanshi (Roll No. 60) - [Role to be assigned]
-- Sanat Sanjeev (Roll No. 44) - [Role to be assigned]
-
-## 🎯 Expected Outcomes
-
-- *Prediction Accuracy*: AUROC > 0.75 for migraine risk prediction
-- *Personalized Insights*: Individual trigger pattern analysis
-- *Actionable Recommendations*: Prevention strategies based on patterns
-- *Research Contribution*: Novel application of Mamba architecture to healthcare
-
 ## 📝 License
 
 MIT License - See LICENSE file for details
 
-## 🔗 Links
-
-- [Technical Documentation](docs/)
-- [API Documentation](docs/api_documentation.md)
-- [User Manual](docs/user_manual.md)
-
 ---
 
 *Note*: This is an active academic research project. Patient data is protected and not included in this repository.
+
